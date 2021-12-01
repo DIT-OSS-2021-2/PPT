@@ -4,4 +4,4 @@ https://github.com/DIT-OSS-2021-2/PPT
 
 https://github.com/DIT-OSS-2021-2
 
-김종현 교수
+김종현 교수 Git/Github
